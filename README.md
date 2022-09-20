@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MTBProgramming, or Matthew Beck, a 21-year-old programmer
+- 
+- 👀 I’m interested in using programming tools to make things that interest me
+- 
+- 🌱 I’m currently learning C, Python, and full stack web development
+- 
+- 💞️ I’m looking to collaborate on anything; the more experience, the better!
+- 
+- 📫 How to reach me: https://www.linkedin.com/in/matthewtbeckcirca2021/
