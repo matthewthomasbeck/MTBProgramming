@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MTBProgramming, or Matthew Beck, a 21-year-old programmer
+- 👋 Hi, I’m @MTBProgramming, or Matthew, a 21-year-old programmer
 - 
 - 👀 I’m interested in using programming tools to make things that interest me
 - 
