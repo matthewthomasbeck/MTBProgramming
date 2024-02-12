@@ -4,4 +4,4 @@
 - 
 - 🌱 I’m currently learning C, Python, and full stack web development
 - 
-- 📫 How to reach me: https://www.linkedin.com/in/matthewtbeckcirca2021/
+- 📫 How to reach me: https://www.linkedin.com/in/matthewthomasbeck/
