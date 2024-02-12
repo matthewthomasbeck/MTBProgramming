@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MTBProgramming, or Matthew, a 22-year-old programmer
+- 👋 Hi, I’m @matthewthomasbeck, or Matthew, a 22-year-old programmer
 - 
 - 👀 I’m interested in using programming tools to make things that interest me
 - 
